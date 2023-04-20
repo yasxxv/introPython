@@ -4,7 +4,7 @@
 
 ## ✏️ Sobre o repositorio
 
-Estou deixando exercícios que etou concluíndo para aprender a linguagem Python.
+Estou deixando aqui exercícios que etou concluíndo para aprender a linguagem Python.
 
 ---------------------------
 
